@@ -1,0 +1,9 @@
+[
+  { 
+    "op": "add", 
+    "path": "/faceCullMode", 
+    "file": "game:blocktypes/chiseled/chiseledblock.json",
+    "value": "NeverCull",
+    "side": "Server"
+    }
+]

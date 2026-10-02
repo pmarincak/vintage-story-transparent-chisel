@@ -1,0 +1,13 @@
+{
+  "type": "content",
+  "modid": "transparentchisel",
+  "name": "Transparent Chisel Patch",
+  "authors": ["azurempress"],
+  "description": "Fixes transparent texture culling for chiseled blocks.",
+  "version": "1.0.0",
+    "dependencies": {
+      "game": "1.22.0"
+  },
+  "side": "Server",
+  "website": "https://github.com/pmarincak/vintage-story-transparent-chisel"
+}
